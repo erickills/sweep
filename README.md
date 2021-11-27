@@ -1,3 +1,3 @@
 # sweep
-
-replace ip starting point
+Not so fancy bash script for IP scanning.
+Replace IP starting point.
